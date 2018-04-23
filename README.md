@@ -7,16 +7,13 @@ USE THESE COMMANDS:
 ==========================
 movie-this
 This command gets information about any movie you want using OMDB, just follow up the command with the title of the movie
-![movie-this](https://gfycat.com/FreeUnitedCleanerwrasse)
-
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/FreeUnitedCleanerwrasse' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
 spotify-ths-song
 This command gets information about any song you want using spotify, just follow up the command line with the song name
-![spotify-this-song](https://gfycat.com/ShortUnimportantCoelacanth)
-
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/ImperturbableDenseArmyworm' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
 my-tweets
 This command shows in the console the last 20 tweets of my account
-![my-tweets](https://gfycat.com/PrestigiousEqualHumpbackwhale)
-
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/PrestigiousEqualHumpbackwhale' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
 do-what-it-says
 This command takes a random command and gets you the information in the console
 
